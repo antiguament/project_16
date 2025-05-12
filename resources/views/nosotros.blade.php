@@ -6,7 +6,7 @@
 
 
 
-    <h1>hola nosotros somos antiguamente</h1>
+    <h1>hola nosotros somos LEGENDARY</h1>
         
 
 
